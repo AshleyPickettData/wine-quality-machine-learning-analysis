@@ -36,7 +36,7 @@ Traditional wine quality assessment relies heavily on expert tasters, making the
 - Integrate predictive models into real-time production monitoring systems
 
 ## Files Included
--   Full machine learning workflow and analysis
+- Course Project.ipynb → Full machine learning workflow and analysis
 - Programming for Analytics-Project.pptx → Final presentation and business findings
 
 ## Future Improvements
